@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<klasse kv="Griesmayer" name="4CHIF" raum="C05">
-    <autoliste>
-        <auto gebdatum="10.10.1990" k_nummer="1" nachname="Einser" vorname="Karl"/>
-        <auto gebdatum="11.11.1991" k_nummer="2" nachname="Zweier" vorname="Peter"/>
-    </autoliste>
-</klasse>
