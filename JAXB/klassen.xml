@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<klasse raum="C05" name="4CHIF" kv="Griesmayer">
+    <schuelerliste>
+        <schueler vorname="Karl" nachname="Einser" gebdatum="10.10.1990" k_nummer="1" />
+        <schueler vorname="Peter" nachname="Zweier" schuelerlistegebdatum="11.11.1991" k_nummer="2" />
+    </schuelerliste>
+</klasse>
